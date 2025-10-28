@@ -8,12 +8,13 @@ Features:
 
 How to use?
 
-0. Scroll till you found the # Template
-1. Paste your download link file
-2. Go to "Runtime" then select Run All (In mobile find it on 3 stripe on left top)
-3. It will prompt "Run Anyway" and permit access to Google Drive (Make sure checks all the permission so you won't encounter "Google Drive mount error". Then Wait until finish
-4. Check your GDrive (Normally take some minutes for the file to appear)
-5. Download your file from GDrive
+1. Go [here](https://colab.research.google.com/github/rajdeep-3305/gdrivemirrorbot/blob/main/bot.ipynb)
+2. Scroll till you found the # Template
+3. Paste your download link file
+4. Go to "Runtime" then select Run All (In mobile find it on 3 stripe on left top)
+5. It will prompt "Run Anyway" and permit access to Google Drive (Make sure checks all the permission so you won't encounter "Google Drive mount error". Then Wait until finish
+6. Check your GDrive (Normally take some minutes for the file to appear)
+7. Download your file from GDrive
 
 Tested on:
 - SourceForge
